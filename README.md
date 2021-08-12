@@ -42,7 +42,7 @@
 ### 이벤트 도출
 ![image](https://user-images.githubusercontent.com/87048759/129120217-1080cbcb-14a3-4b5e-9a92-c3f4e2bec1c7.png)
 
-### 부적격 이벤트 탈락
+### 부적격 이벤트 제거
 ![image](https://user-images.githubusercontent.com/87048759/129120307-c7e6895f-6679-48e7-bbe0-2f50b585e55e.png)
 
 ### 액터, 커맨드 부착하여 읽기 좋게
