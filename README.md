@@ -13,7 +13,7 @@
 1. 고객이 주문을 취소할 수 있다
 1. 주문이 취소되면 상품 배송이 취소된다
 1. 고객이 주문상태를 중간중간 조회한다
-1. 주문상태가 바뀔 때 마다 카톡으로 알림을 보낸다
+1. 주문상태가 바뀌면 고객에게 알림을 보낸다
 
 비기능적 요구사항
 1. 트랜잭션
@@ -55,9 +55,9 @@
 
 ![image](https://user-images.githubusercontent.com/87048759/129121696-e0aa24ad-98cd-4de7-8977-eec3684088c3.png)
 
-### 폴리시 부착 (괄호는 수행주체, 폴리시 부착을 둘째단계에서 해놔도 상관 없음. 전체 연계가 초기에 드러남)
+### 폴리시 추가, 알림 추가
 
-![image](https://user-images.githubusercontent.com/487999/79683633-5aced180-8266-11ea-8f42-c769eb88dfb1.png)
+![image](https://user-images.githubusercontent.com/87048759/129122529-715818ba-c863-42f1-b36e-a9de568e81e2.png)
 
 ### 폴리시의 이동과 컨텍스트 매핑 (점선은 Pub/Sub, 실선은 Req/Resp)
 
