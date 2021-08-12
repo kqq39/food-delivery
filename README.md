@@ -45,7 +45,7 @@
 ### 부적격 이벤트 제거
 ![image](https://user-images.githubusercontent.com/87048759/129120307-c7e6895f-6679-48e7-bbe0-2f50b585e55e.png)
 
-### 액터, 커맨드 부착하여 읽기 좋게
+### 액터, 커맨드 추가
 ![image](https://user-images.githubusercontent.com/87048759/129120865-dd1f01b3-78f5-46fe-b779-0323dd02e6ed.png)
 
 ### 어그리게잇으로 묶기
@@ -59,9 +59,9 @@
 
 ![image](https://user-images.githubusercontent.com/87048759/129122529-715818ba-c863-42f1-b36e-a9de568e81e2.png)
 
-### 폴리시의 이동과 컨텍스트 매핑 (점선은 Pub/Sub, 실선은 Req/Resp)
+### 폴리시의 이동과 컨텍스트 매핑, View 추가
 
-![image](https://user-images.githubusercontent.com/487999/79683641-5f938580-8266-11ea-9fdb-4e80ff6642fe.png)
+![image](https://user-images.githubusercontent.com/87048759/129142306-80d9af08-8ad7-4e30-a846-351d044a21bb.png)
 
 ### 완성된 1차 모형
 
